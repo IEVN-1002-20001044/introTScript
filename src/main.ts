@@ -1,4 +1,5 @@
 import './style.css'
+import './ejemplos-ts/03-funciones.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
